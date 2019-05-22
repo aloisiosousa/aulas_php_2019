@@ -64,7 +64,7 @@ include_once "includes/header.inc.php";
                     
         
                 <article class="col-6">
-                        <h1>Teste2</h1>
+                        <h1>InfoSousa 2019</h1>
                 </article>
             </div>
         </section>
