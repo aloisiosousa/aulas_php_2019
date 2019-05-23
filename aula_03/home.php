@@ -32,7 +32,14 @@
                     
         
                 <article class="col-6">
-                        <h1>InfoSousa 2019</h1>
+                    <h1>InfoSousa 2019</h1>
+                    <div class="container bg-danger align-content-sm-center">
+                        <div class="row">
+                            <div class="col-sm"> 
+                                
+                            </div>
+                        </div>
+                    </div>
                 </article>
             </div>
         </section>

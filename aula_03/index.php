@@ -8,15 +8,8 @@
     <div class="container bg-light" style="height: 60px;" >
         
             <div class="row">
-                <div class="col-sm-10 text-center">
+                <div class="col-sm-12 text-center">
                     <h1>Aula de PHP 2019 - Bootstrap</h1>
-                </div>
-                <div class="col-sm-2 text-center">
-
-
-                    <!-- Oi, <?php //echo $usuario; ?> -->
-
-
                 </div>
             </div>
     </div>
