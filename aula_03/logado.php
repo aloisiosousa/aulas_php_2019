@@ -8,13 +8,13 @@
 
     if(($usuario == "admin") || ($senha == "admin")){
 
-        $_SESSION['logado'] = 1;
-        header('Location: home.php');
+        $_SESSION['logado'] = true;
+        header("Location: home.php");
 
     }else{
 
-        $_SESSION['logado'] = 0;
-        header('Location: form_login.php');
+        $_SESSION['logado'] = false;
+        header("Location: form_login.php");
 
     }
 
