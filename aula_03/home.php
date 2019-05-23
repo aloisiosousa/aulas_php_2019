@@ -44,7 +44,7 @@ include_once "includes/header.inc.php";
         <section class="container">
             <div class="row text-center">
                 <article class="col-6">
-                        <h1>Teste1</h1>
+                        <h1>Formulário de Acesso</h1>
 
                 <div class="container bg-danger align-content-sm-center">
                     <div class="row">
