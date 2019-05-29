@@ -9,6 +9,7 @@
     <body>
         <form action="entrar.php" method="post" name="form">
 
+            <h2> Tela de Login</h2>
             <label for="login">Usuário</label>
             <input type="text" name="login" placeholder="login">
             
